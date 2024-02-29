@@ -2,8 +2,8 @@
 
 _FlyWander_ is a mobile app that runs on Android platform. The app is built with Kotlin and uses RecyclerView to display the main layout.
 
-**Note**: This app is my latest submission for Dicoding's "Belajar Membuat Aplikasi Android untuk Pemula" Course. <br>
-_[Click here](https://github.com/zask45/tour-the-tours-app) to see the old version of this project_
+**Note**: This app is my latest personal submission for Dicoding's "Belajar Membuat Aplikasi Android untuk Pemula" Course. <br>
+> Please click [Tour The Tours! Project](https://github.com/zask45/tour-the-tours-app) to see the old version of this project
 
 ### Application Architecture
 ---
