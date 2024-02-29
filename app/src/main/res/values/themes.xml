@@ -1,0 +1,107 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FlyWander" parent="Theme.Material3.DayNight.NoActionBar">
+    <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/primary</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+    </style>
+
+    <style name="SplashScreenTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_logo</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+
+    <style name="Text">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">0dp</item>
+    </style>
+
+    <style name="Text.ItemRowTitle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/onPrimary</item>
+        <item name="fontFamily">@font/roboto_bold</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginEnd">16dp</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="Text.ItemRowDescription">
+        <item name="fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">@color/onPrimary</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginEnd">16dp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="Text.Toolbar" parent="Text.ItemRowTitle">
+        <item name="fontFamily">@font/smooch_regular</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="Text.DetailActivity">
+        <item name="android:layout_marginStart">36dp</item>
+        <item name="android:layout_marginEnd">36dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/onPrimary</item>
+    </style>
+
+    <style name="Text.DetailActivity.Title">
+        <item name="android:textSize">40sp</item>
+        <item name="fontFamily">@font/roboto_bold</item>
+        <item name="android:layout_marginTop">56dp</item>
+    </style>
+
+    <style name="Text.DetailActivity.Title.Landscape">
+        <item name="android:layout_marginStart">0dp</item>
+        <item name="android:layout_marginEnd">0dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+    </style>
+
+    <style name="Text.DetailActivity.Location">
+        <item name="android:textSize">21.33sp</item>
+        <item name="fontFamily">@font/roboto_light</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="Text.DetailActivity.Location.Landscape">
+        <item name="android:layout_marginStart">0dp</item>
+        <item name="android:layout_marginEnd">0dp</item>
+    </style>
+
+    <style name="Text.DetailActivity.Description">
+        <item name="android:textSize">18.67sp</item>
+        <item name="fontFamily">@font/roboto_light</item>
+        <item name="android:layout_marginTop">34.67dp</item>
+    </style>
+
+    <style name="Text.DetailActivity.Description.Landscape">
+        <item name="android:layout_marginStart">0dp</item>
+        <item name="android:layout_marginEnd">0dp</item>
+    </style>
+
+    <style name="CardImage">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20%</item>
+    </style>
+
+    <style name="CardImage_2">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10%</item>
+    </style>
+
+    <style name="circle">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="Theme.FlyWander" parent="Base.Theme.FlyWander" />
+</resources>

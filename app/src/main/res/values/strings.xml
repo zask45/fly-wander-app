@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">FlyWander</string>
+
+    <string name="places_name">Nama Tempat Wisata</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="my_name">Keysha Zascha Medina</string>
+    <string name="my_email">zaschakeysha@gmail.com</string>
+    <string name="bar_title">FlyWander</string>
+    <string name="menu">menu</string>
+    <string name="about_creator">About Creator</string>
+    <string name="image">image</string>
+    <string name="foto_tempat_wisata">foto tempat wisata</string>
+    <string name="gambar_wisata_alam">Gambar Wisata Alam</string>
+    <string name="test_description">Labuan Bajo merupakan kota yang menjadi pintu gerbang menuju Taman Nasional Komodo di Nusa Tenggara Timur, Indonesia. Tempat ini terkenal dengan keindahan alamnya dan merupakan tempat untuk melihat komodo, reptil raksasa yang hanya ada di pulau ini.</string>
+    <string name="share_page">Bagikan halaman</string>
+
+    <string-array name="data_name">
+        <item>Tana Toraja</item>
+        <item>Labuan Bajo</item>
+        <item>Lombok</item>
+        <item>Bandung</item>
+        <item>Borobudur</item>
+        <item>Prambanan</item>
+        <item>Dieng Plateau</item>
+        <item>Raja Ampat</item>
+        <item>Tanah Lot</item>
+        <item>Bromo, Tengger, Semeru</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Sulawesi Selatan</item>
+        <item>Nusa Tenggara Timur</item>
+        <item>Nusa Tenggara Barat</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>Yogyakarta</item>
+        <item>Jawa Tengah</item>
+        <item>Papua</item>
+        <item>Bali</item>
+        <item>Jawa Timur</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Tana Toraja terletak di Sulawesi Selatan, Indonesia, dan terkenal dengan kebudayaannya yang unik, terutama tradisi pemakaman dengan patung-patung dan upacara adat yang kaya akan simbol dan makna.</item>
+        <item>Labuan Bajo merupakan kota yang menjadi pintu gerbang menuju Taman Nasional Komodo di Nusa Tenggara Timur, Indonesia. Tempat ini terkenal dengan keindahan alamnya dan merupakan tempat untuk melihat komodo, reptil raksasa yang hanya ada di pulau ini.</item>
+        <item>Lombok adalah pulau di Nusa Tenggara Barat, Indonesia, yang terkenal dengan pantainya yang indah seperti Pantai Kuta Lombok dan Gunung Rinjani, gunung berapi yang menjadi objek hiking populer.</item>
+        <item>Bandung adalah kota di Jawa Barat, Indonesia, yang terkenal dengan keindahan alamnya, kulinernya, dan kebudayaannya. Bandung juga dikenal dengan gedung-gedung art deco dan kota ini merupakan tempat belanja yang populer.</item>
+        <item>Candi Borobudur adalah sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. Candi ini terdiri dari enam teras berbentuk persegi panjang, tiga teras atas berbentuk melingkar, dan sebuah stupa besar utama di puncaknya.</item>
+        <item>Candi Prambanan adalah kompleks candi Hindu terbesar di Indonesia, terletak di Klaten dan Sleman, Yogyakarta. Candi ini merupakan kompleks candi Hindu terbesar di Indonesia yang terdiri dari beberapa candi yang memiliki arsitektur indah dan unik.</item>
+        <item>Dieng Plateau adalah dataran tinggi di Jawa Tengah, Indonesia, yang terkenal dengan pemandangan alamnya, danau-danau kecil, serta kompleks candi Hindu kuno seperti Candi Arjuna.</item>
+        <item>Raja Ampat adalah destinasi wisata yang terkenal karena keindahan alam bawah lautnya. Terletak di Papua Barat, Indonesia, Raja Ampat dikenal sebagai surga bagi penyelam dengan keanekaragaman hayati laut yang luar biasa.</item>
+        <item>Tanah Lot adalah salah satu destinasi wisata terkenal di Bali. Tanah Lot memiliki pemandangan laut yang indah dan diselimuti dengan kebudayaan Bali yang memukau. Setelah berkunjung ke Tanah Lot, biasanya wisatawan juga menyempatkan diri untuk pergi ke Pantai Kuta, Ubud, dan Pura Besakih.</item>
+        <item>Bromo, Tengger, Semeru adalah sebuah taman nasional yang terletak di Jawa Timur, Indonesia. Taman ini terkenal dengan keindahan gunung berapi Bromo dan Semeru.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/tana_toraja_image</item>
+        <item>@drawable/labuan_bajo_image</item>
+        <item>@drawable/lombok_image</item>
+        <item>@drawable/bandung_image</item>
+        <item>@drawable/borobudur_image</item>
+        <item>@drawable/prambanan_image</item>
+        <item>@drawable/dieng_plateau_image</item>
+        <item>@drawable/raja_ampat_image</item>
+        <item>@drawable/bali_image</item>
+        <item>@drawable/bromo_image</item>
+    </integer-array>
+
+</resources>
